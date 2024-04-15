@@ -1,6 +1,6 @@
 # Technical-Assessment-from-Atom-Media
 Technical-Assessment-from-Atom-Media
-
+reqirements:
 laravel 5.7
 php 7.0.8
 composer 2.2
